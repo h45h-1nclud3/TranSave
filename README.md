@@ -11,6 +11,16 @@ pip install playsound
 
 pip install gtts
 
+# Install
+
+git clone https://github.com/h45h-1nclud3/TranSave
+
+or 
+
+Download the zip file from the repository
+
+Note: it works on windows for now
+
 # Usage
 
 python3 TranSave.py
