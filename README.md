@@ -6,7 +6,9 @@ A small real-time translator which make use of google translation service, and r
 Python 3
 
 pip install googletrans
+
 pip install playsound
+
 pip install gtts
 
 # Usage
