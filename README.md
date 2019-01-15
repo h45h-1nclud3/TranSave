@@ -5,11 +5,11 @@ A small real-time translator which make use of google translation service, and r
 # Dependecies
 Python 3
 
-pip install googletrans
+pip3 install googletrans
 
-pip install playsound
+pip3 install playsound
 
-pip install gtts
+pip3 install gtts
 
 # Install
 
