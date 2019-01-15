@@ -14,3 +14,10 @@ pip install gtts
 # Usage
 
 python3 TranSave.py
+
+>> Enter dest: arabic              (type here the language you want to translate to)
+>> Enter text: hello               (type here the word or sentence you want to translate)
+
+مرحبا
+
+>> Enter text:
