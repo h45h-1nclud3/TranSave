@@ -12,4 +12,6 @@ pip install playsound
 pip install gtts
 
 # Usage
-python3
+create a file name it "Vocabulary.txt"
+
+python3 TranSave.py
