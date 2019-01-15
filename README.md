@@ -14,4 +14,6 @@ pip install gtts
 # Usage
 create a file name it "Vocabulary.txt"
 
+create a directory name it "sound"    (the audio files of translations will be saved here)
+
 python3 TranSave.py
